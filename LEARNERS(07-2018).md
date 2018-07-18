@@ -39,7 +39,7 @@
 - Gnanaprasuna D
 - Andrew E
 - [Edwards, Sandra (@lilsan23)](https://github.com/lilsan23/liftoff-assignments.git)
-- Jonathan E
+- [Ellis, Jonathan (@joellis13](https://github.com/joellis13/liftoff-assignments)
 - [Erondu, Uche (@UcheE)](https://github.com/UcheE/liftoff-assignments)
 - Paul F
 - Rim F
