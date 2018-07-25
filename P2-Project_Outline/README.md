@@ -28,7 +28,7 @@ API's:  I was planning on using several different API's (Netflix, Hulu, etc.), b
 
 Java
 
-PHPMyAdmin
+PHPMyAdmin or SpringData
 
 HTML
 
@@ -37,6 +37,8 @@ CSS
 JavaScript
 
 Spring
+
+SpringBoot
 
 Thymeleaf
 
