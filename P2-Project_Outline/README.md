@@ -24,13 +24,20 @@ Create Lists:  Users will be able to create lists of their shows and movies so t
 
 ### Technologies
 
-API's
+API's:  I was planning on using several different API's (Netflix, Hulu, etc.), but it appears that the individual ones don't exist, except for Netflix, which was depricated a few years ago.  Otherwise, it looks like Guidebox will serve most of my needs.
+
 Java
+
 PHPMyAdmin
+
 HTML
+
 CSS
+
 JavaScript
+
 Spring
+
 Thymeleaf
 
 ### What I'll Have to Learn
